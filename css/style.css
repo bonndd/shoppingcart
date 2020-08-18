@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+}
+.product-preview{
+    max-width: 50px;
+}
+.left {
+    float:left;
+}
+.right {
+    float:right;
+}
+.clear{
+    clear:both;
+}
+.product-item{
+    width: 200px;
+}
